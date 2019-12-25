@@ -1,0 +1,3 @@
+cv.inFile =test1.txt
+cv.outFile =compressed.zip
+cv.compressionType =zip
